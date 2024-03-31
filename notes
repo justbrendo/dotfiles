@@ -1,0 +1,1 @@
+ln -sf ~/.dotfiles/.config/alacritty/ ~/.config/alacritty
